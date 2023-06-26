@@ -4,5 +4,6 @@ democraciasegura.com.br:
 - redes sociais assinadas com chaveprivada local
 - redes sociais precisam publicar hashes de todos os conteudos, publicos e privados, na blockchain
 - reforma policial, medica, juridica e religiosa
+- todos os movimentos em orgaos publicos (nova manifestaçao no sistema MP, emails trocados) devem gerar eventos em blockchain publica (como a Ethereum) com o hash de todo o conteudo; assim, se houver adulteraçao ou exclusao, no futuro isso podera ser sabido em alguma comissao
 -
 bigtechbigbeast site: https://www1.folha.uol.com.br/colunas/monicabergamo/2023/06/videos-bolsonaristas-foram-os-mais-recomendados-no-youtube-nas-eleicoes-de-2022-diz-pesquisa-do-instituto-vero.shtml
