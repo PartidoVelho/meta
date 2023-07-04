@@ -1,13 +1,7 @@
 - estadolaicomas.com.br (Estado Laico, mas) https://www.google.com/search?client=firefox-b-d&sxsrf=AB5stBg-jN6hLg8lB-ToqyoDJX0T3G4ABQ:1688396287445&q=stf+plenario&tbm=isch&sa=X&ved=2ahUKEwj-6c-n5vL_AhWjL7kGHXoaBfgQ0pQJegQICRAB&biw=1366&bih=643#imgrc=x1vMIwIP78rnvM
--
-democraciasegura.com.br:
-- redes sociais assinadas com chaveprivada local
-- redes sociais precisam publicar hashes de todos os conteudos, publicos e privados, na blockchain
-- reforma policial, medica, juridica e religiosa
-- todos os movimentos em orgaos publicos (nova manifestaçao no sistema MP, emails trocados) devem gerar eventos em blockchain publica (como a Ethereum) com o hash de todo o conteudo; assim, se houver adulteraçao ou exclusao, no futuro isso podera ser sabido em alguma comissao
--
+
 bigtechbigbeast.com: https://www1.folha.uol.com.br/colunas/monicabergamo/2023/06/videos-bolsonaristas-foram-os-mais-recomendados-no-youtube-nas-eleicoes-de-2022-diz-pesquisa-do-instituto-vero.shtml
--
+
 desnormalize.com.br:
 - Instagram algo
 - querem impedir de combt pd (link goes), tornar isso propriedade exclusiva da extrema-direita; tal qual a Bandeira do Brasil, a esqrd precisa recuperar a bandeira do cmbt pd
@@ -15,3 +9,9 @@ desnormalize.com.br:
 - falar em "lli" virou tão normalizado qnt ser frr
 - virou indústria tanto qnt trfc
 - dados/estáticas sobre trfc hmn, qnts desses são crnçs e qnts bilhões gera
+
+democraciasegura.com.br:
+- redes sociais assinadas com chaveprivada local
+- redes sociais precisam publicar hashes de todos os conteudos, publicos e privados, na blockchain
+- reforma policial, medica, juridica e religiosa
+- todos os movimentos em orgaos publicos (nova manifestaçao no sistema MP, emails trocados) devem gerar eventos em blockchain publica (como a Ethereum) com o hash de todo o conteudo; assim, se houver adulteraçao ou exclusao, no futuro isso podera ser sabido em alguma comissao
