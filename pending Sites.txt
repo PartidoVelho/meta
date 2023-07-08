@@ -1,7 +1,3 @@
-- estadolaicomas.com.br (Estado Laico, mas) https://www.google.com/search?client=firefox-b-d&sxsrf=AB5stBg-jN6hLg8lB-ToqyoDJX0T3G4ABQ:1688396287445&q=stf+plenario&tbm=isch&sa=X&ved=2ahUKEwj-6c-n5vL_AhWjL7kGHXoaBfgQ0pQJegQICRAB&biw=1366&bih=643#imgrc=x1vMIwIP78rnvM
-
-bigtechbigbeast.com: https://www1.folha.uol.com.br/colunas/monicabergamo/2023/06/videos-bolsonaristas-foram-os-mais-recomendados-no-youtube-nas-eleicoes-de-2022-diz-pesquisa-do-instituto-vero.shtml
-
 desnormalize.com.br:
 - Instagram algo
 - querem impedir de combt pd (link goes), tornar isso propriedade exclusiva da extrema-direita; tal qual a Bandeira do Brasil, a esqrd precisa recuperar a bandeira do cmbt pd
@@ -10,8 +6,44 @@ desnormalize.com.br:
 - virou indústria tanto qnt trfc
 - dados/estáticas sobre trfc hmn, qnts desses são crnçs e qnts bilhões gera
 
+bigtechbigbeast.com: https://www1.folha.uol.com.br/colunas/monicabergamo/2023/06/videos-bolsonaristas-foram-os-mais-recomendados-no-youtube-nas-eleicoes-de-2022-diz-pesquisa-do-instituto-vero.shtml
+
+democraciasegura:
+grvçs (embed meu tweet sobre "gritam 24hrs por dia")
+segurança garantida para juizes em situaçao de risco
+melhores dispositivos para garantir o estado laico, como identificar a religiao predominante do momento e nao isolar o simbolo dessa religiao em recintos do Estado (como apontado do estadolaicomas.com.br)
+É preciso mexer na formação militar e transformar a Justiça Militar em justiça administrativa, aponta Claudio Couto
+https://twitter.com/ICLNoticias/status/1677455926834470912
+-
 democraciasegura.com.br:
 - redes sociais assinadas com chaveprivada local
 - redes sociais precisam publicar hashes de todos os conteudos, publicos e privados, na blockchain
 - reforma policial, medica, juridica e religiosa
 - todos os movimentos em orgaos publicos (nova manifestaçao no sistema MP, emails trocados) devem gerar eventos em blockchain publica (como a Ethereum) com o hash de todo o conteudo; assim, se houver adulteraçao ou exclusao, no futuro isso podera ser sabido em alguma comissao
+
+both quedemocracia/estadolaicomas:
+Justiça deixa prescrever processo contra Edir Macedo já pronto para julgamento
+https://www1.folha.uol.com.br/poder/2019/10/justica-deixa-prescrever-processo-contra-edir-macedo-ja-pronto-para-julgamento.shtml
+
+estadolaicomas:
+Pastores convencem indígenas a recusarem vacina: "É a marca da Besta"
+https://www.uol.com.br/vivabem/noticias/redacao/2021/06/26/vacinacao-coronvavirus-missionarios-indigenas-tribos-evangelicos.htm
+-
+VÍDEO: vereador pastor se refere a indígenas como “barbárie” em discurso racista
+https://revistaforum.com.br/politica/2023/6/2/video-vereador-pastor-se-refere-indigenas-como-barbarie-em-discurso-racista-137010.html
+
+INDÍGENAS YANOMAMIS – Pastor espalha fake news sobre desnutrição em Roraima: “São venezuelanos”.
+https://ovetor.com.br/indigenas-yanomamis-pastor-espalha-fake-news-sobre-desnutricao-em-roraima-sao-venezuelanos/
+Nem tudo está perdido; ainda existem Cristãos de verdade:
+https://diariodegoias.com.br/evangelica-aava-santiago-cobra-posicao-de-liderancas-pentecostais-sobre-genocidio-yanomami/273084/
+
+https://www.terra.com.br/nos/opiniao/lua-andrade/intolerancia-religiosa-nao-o-que-aconteceu-no-bbb-e-racismo-religioso,78c94dd330629d1f34fd36d12a14f1f8r6j9w5wf.html
+https://www.uol.com.br/ecoa/ultimas-noticias/2023/02/26/cristaos-sao-responsaveis-pela-intolerancia-religiosa-como-mudar-isso.htm
+https://www.estadao.com.br/internacional/enfurecidos-em-razao-de-conversoes-religiosas-hinduistas-atacam-cristaos-na-india/
+https://veja.abril.com.br/coluna/virou-viral/justica-manda-apagar-canais-cristaos-do-youtube-por-intolerancia-religiosa
+https://g1.globo.com/politica/noticia/2022/10/18/eleicoes-2022-perseguicao-contra-cristaos-ja-comecou-no-brasil-so-que-dentro-da-igreja.ghtml
+https://www.bbc.com/portuguese/brasil-63055714
+
+quedemocracia:
+https://www.google.com/search?q=STF+penduricalhos&client=ubuntu-sn&channel=fs&tbm=nws&sxsrf=AB5stBix7nN0VVIZPtegiy9l0z69xG4FvQ:1688839165845&ei=_aOpZO6JM92P5OUP56OcmAQ&start=10&sa=N&ved=2ahUKEwiu_L-U2P__AhXdB7kGHecRB0MQ8tMDegQIBRAE&biw=1366&bih=643&dpr=1
+https://www.estadao.com.br/politica/tribunal-mais-bem-pago-do-pais-expande-regalias-salarios-chegam-a-r-200-mil-e-aras-aciona-stf/
