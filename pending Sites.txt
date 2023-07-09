@@ -1,29 +1,4 @@
-desnormalize.com.br:
-- Instagram algo
-- querem impedir de combt pd (link goes), tornar isso propriedade exclusiva da extrema-direita; tal qual a Bandeira do Brasil, a esqrd precisa recuperar a bandeira do cmbt pd
-- inventaram mstrb mqn mt menor q o normal
-- falar em "lli" virou tão normalizado qnt ser frr
-- virou indústria tanto qnt trfc
-- dados/estáticas sobre trfc hmn, qnts desses são crnçs e qnts bilhões gera
-
-bigtechbigbeast.com: https://www1.folha.uol.com.br/colunas/monicabergamo/2023/06/videos-bolsonaristas-foram-os-mais-recomendados-no-youtube-nas-eleicoes-de-2022-diz-pesquisa-do-instituto-vero.shtml
-
-democraciasegura:
-grvçs (embed meu tweet sobre "gritam 24hrs por dia")
-segurança garantida para juizes em situaçao de risco
-melhores dispositivos para garantir o estado laico, como identificar a religiao predominante do momento e nao isolar o simbolo dessa religiao em recintos do Estado (como apontado do estadolaicomas.com.br)
-É preciso mexer na formação militar e transformar a Justiça Militar em justiça administrativa, aponta Claudio Couto
-https://twitter.com/ICLNoticias/status/1677455926834470912
--
-democraciasegura.com.br:
-- redes sociais assinadas com chaveprivada local
-- redes sociais precisam publicar hashes de todos os conteudos, publicos e privados, na blockchain
-- reforma policial, medica, juridica e religiosa
-- todos os movimentos em orgaos publicos (nova manifestaçao no sistema MP, emails trocados) devem gerar eventos em blockchain publica (como a Ethereum) com o hash de todo o conteudo; assim, se houver adulteraçao ou exclusao, no futuro isso podera ser sabido em alguma comissao
-
-both quedemocracia/estadolaicomas:
-Justiça deixa prescrever processo contra Edir Macedo já pronto para julgamento
-https://www1.folha.uol.com.br/poder/2019/10/justica-deixa-prescrever-processo-contra-edir-macedo-ja-pronto-para-julgamento.shtml
+https://www.addtoany.com/ext/meta-tags/
 
 estadolaicomas:
 Pastores convencem indígenas a recusarem vacina: "É a marca da Besta"
@@ -44,10 +19,6 @@ https://veja.abril.com.br/coluna/virou-viral/justica-manda-apagar-canais-cristao
 https://g1.globo.com/politica/noticia/2022/10/18/eleicoes-2022-perseguicao-contra-cristaos-ja-comecou-no-brasil-so-que-dentro-da-igreja.ghtml
 https://www.bbc.com/portuguese/brasil-63055714
 
-quedemocracia:
-https://www.google.com/search?q=STF+penduricalhos&client=ubuntu-sn&channel=fs&tbm=nws&sxsrf=AB5stBix7nN0VVIZPtegiy9l0z69xG4FvQ:1688839165845&ei=_aOpZO6JM92P5OUP56OcmAQ&start=10&sa=N&ved=2ahUKEwiu_L-U2P__AhXdB7kGHecRB0MQ8tMDegQIBRAE&biw=1366&bih=643&dpr=1
-https://www.estadao.com.br/politica/tribunal-mais-bem-pago-do-pais-expande-regalias-salarios-chegam-a-r-200-mil-e-aras-aciona-stf/
-
 https://www.intercept.com.br/2021/09/02/entrevista-logica-miliciana-bolsonaro-brasil-bruno-paes-manso/
 https://www.intercept.com.br/2019/12/03/lei-miranda-legista-crimes-policia/
 https://www.intercept.com.br/2018/09/12/generais-exercito-eleicoes-democracia/
@@ -58,3 +29,28 @@ https://g1.globo.com/sp/sao-paulo/noticia/2023/02/28/justica-de-sp-condena-advog
 https://www1.folha.uol.com.br/ilustrada/2022/08/o-que-o-caso-daniella-perez-tem-a-ver-com-machismo-e-homofobia-no-brasil.shtml
 https://catarinas.info/culpa-da-vitima-juri-feminicida-confesso/
 https://revistamarieclaire.globo.com/Feminismo/Politica/noticia/2022/10/ele-acha-que-ainda-existe-voto-de-cabresto-relatos-de-mulheres-coagidas-seguirem-escolha-politica-dos-maridos.html
+
+terapiajustica.com.br
+-
+
+reparacaohistorica.com.br
+- Todas as sentenças proferidas por Sérgio Moro e seus alinhados devem ser anuladas.
+- A Comissão da Verdade precisa voltar (inclusive seu perfil excluído do Facebook), ser levada à sério e colocada em prática
+
+desnormalize.com.br:
+- Instagram algo
+- querem impedir de combt pd (link goes), tornar isso propriedade exclusiva da extrema-direita; tal qual a Bandeira do Brasil, a esqrd precisa recuperar a bandeira do cmbt pd
+- inventaram mstrb mqn mt menor q o normal
+- falar em "lli" virou tão normalizado qnt ser frr
+- virou indústria tanto qnt trfc
+- dados/estáticas sobre trfc hmn, qnts desses são crnçs e qnts bilhões gera
+
+bigtechbigbeast.com: https://www1.folha.uol.com.br/colunas/monicabergamo/2023/06/videos-bolsonaristas-foram-os-mais-recomendados-no-youtube-nas-eleicoes-de-2022-diz-pesquisa-do-instituto-vero.shtml
+
+democraciasegura:
+grvçs (embed meu tweet sobre "gritam 24hrs por dia")
+-? https://www.cofecon.org.br/2017/04/07/falsa-democracia/
+&
+-? https://somos99.org/2017/12/04/por-que-vivemos-uma-falsa-democracia-2/
+-? https://twitter.com/99pcento?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3A99pcento%7Ctwcon%5Es1
+-? https://www.instagram.com/99pcento/
